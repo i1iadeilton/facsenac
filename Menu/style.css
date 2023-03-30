@@ -1,0 +1,25 @@
+#menu {
+    padding: 0;
+   }
+#menu li {
+    display: inline;
+   }
+#menu li a {
+    background-color: rgb(189, 129, 129);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+   }
+#menu li a:hover {
+    background-color: rgb(34, 116, 170);
+   }
+
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h2{
+    color: rgb(83, 5, 16);
+}
